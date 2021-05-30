@@ -304,7 +304,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1623950257}
         m_TargetAssemblyTypeName: HandWriting, Assembly-CSharp
-        m_MethodName: PredictByKerasModel
+        m_MethodName: Clear
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -382,7 +382,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _kerasModel: {fileID: 5022602860645237092, guid: f035fa987ef7e974d8b8358a91fb77c4, type: 3}
-  _mnist8Model: {fileID: 0}
+  _mnist8Model: {fileID: 5022602860645237092, guid: 68d4ea2d6581d2444b3e4ad03831f0f1, type: 3}
 --- !u!4 &418048756
 Transform:
   m_ObjectHideFlags: 0

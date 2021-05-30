@@ -1,7 +1,7 @@
 # Keras_to_Unity_Barracuda_experiments
 
 
-## Google Colab (mnist model learning)
+## Google Colab (MNIST model learning)
 https://github.com/mushe/Keras_to_Unity_Barracuda_experiments/blob/main/Keras_to_onnx_Unity_Barracuda_MNIST.ipynb
 
 
